@@ -1,1 +1,1 @@
-# symmetrical-pancake
+# coding workshop

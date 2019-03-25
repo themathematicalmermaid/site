@@ -1,0 +1,35 @@
+  body {
+  background: black;
+  margin: 0;
+  padding: 10px;
+  padding-top: 40px;
+}
+
+.card {
+  background: white;
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1,
+h2,
+h3,
+p,
+a {
+  text-align: center;
+}
+
+h1 {
+  font-family: "Ewert", Georgia, "Times New Roman", Times, serif;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: "Ewert", Georgia, "Times New Roman", Times, serif;
+}
+
+p,
+a {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}

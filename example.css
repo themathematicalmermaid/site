@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Ewert);
 
 body {
-  background: coral;
+  background-color: coral;
   background-image: url("background.jpg");
   background-size: cover;
   background-position: center;

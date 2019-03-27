@@ -13,7 +13,7 @@ body {
 }
 
 .card {
-  background: white;
+  background-color: white;
   max-width: 500px;
   margin: auto;
   padding: 20px;
@@ -22,7 +22,6 @@ body {
 
 h1,
 h2,
-h3,
 p,
 a {
   text-align: center;

@@ -15,7 +15,7 @@ Copy and alter the `index_template.html` file. Be sure to rename it `index.html`
 
 ## CSS
 
-Copy and alter the `styles.css` file. Uncomment the stylesheet line in your `index.html` file. As long as these two files are in the same folder, this will start adding the CSS to your HTML. The template styles are boring (and designed to look ok on a mobile) but this is where you come in! Have fun exploring the different CSS attributes you can use. For example, my `example.css` is what I've used.
+Copy and alter the `styles-template.css` file. Uncomment the stylesheet line in your `index.html` file. As long as these two files are in the same folder, this will start adding the CSS to your HTML. The template styles are boring (and designed to look ok on a mobile) but this is where you come in! Have fun exploring the different CSS attributes you can use. For example, my `styles.css` is what I've used.
 
 - w3schools CSS reference
 - unsplash (free to use unlike google images)
@@ -30,6 +30,8 @@ Your site can now be visited by anyone connected to the internet!
 
 ### jQuery & mySQL
 
-Want to develop your site further? Look at jQuery or javascript, and mySQL for a database.
+Copy and alter the `script.js` file. Uncomment the `jquery` and `script.js` lines in the `head` of your HTML index file.
+
+Want to develop your site further? Look at jQuery or JavaScript, and mySQL for a database.
 
 ## - Google anything you don't fully understand

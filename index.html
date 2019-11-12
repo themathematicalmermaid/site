@@ -2,8 +2,10 @@
 <html>
   <head>
     <title>The Mathematical Mermaid</title>
-    <link rel="stylesheet" type="text/css" href="example.css" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="styles.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="script.js"></script>
   </head>
   <body>
     <div class="card">
@@ -11,8 +13,36 @@
       <hr />
       <h2>Leo Gilmour</h2>
       <p>Developer at Stylist Magazine</p>
-      <p>Maths, Phyics & coding tutor</p>
       <p>Party planner</p>
+      <p>Maths, Phyics & <em>coding tutor</em></p>
+      <div class="icon-divider">✨</div>
+      <h3>Jumpstart coding templates</h3>
+      <ul class="coding">
+        <li>
+          <a
+            href="https://raw.githubusercontent.com/themathematicalmermaid/site/master/index-template.html"
+            target="_blank"
+          >
+            HTML
+          </a>
+        </li>
+        <li>
+          <a href="styles-template.css" target="_blank">
+            CSS
+          </a>
+        </li>
+        <li>
+          <a href="script.js" target="_blank">
+            jQuery
+          </a>
+        </li>
+        <li>
+          <a href="http://www.leogilmour.com/learn-to-code" target="_blank">
+            ...
+          </a>
+        </li>
+      </ul>
+      <hr />
       <div class="links">
         <a
           href="https://www.instagram.com/themathematicalmermaid/"
@@ -25,4 +55,7 @@
       </div>
     </div>
   </body>
+  <script>
+    $(document).ready(myFunction());
+  </script>
 </html>

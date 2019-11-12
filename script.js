@@ -20,4 +20,13 @@ myFunction = function() {
         width: "100%"
       });
   });
+  $("p").on("mouseleave", function() {
+    $(this)
+      .css("color", "fuchsia")
+      .fadeOut("slow", function() {
+        $(this)
+          .text("This is magic!")
+          .fadeIn();
+      });
+  });
 };

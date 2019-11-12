@@ -24,7 +24,7 @@ Copy and alter the `styles.css` file. Uncomment the stylesheet line in your `ind
 
 ### Live / Cloud website
 
-Create a GitHub account (example: my username is `themathematicalmermaid`). Create a repo (example: mine is called `site`). Upload your `index.html` file and your `styles.css` file. Upload any images you referenced. In your repo settings, scroll down to the section on GitHub Pages. Choose to publish your master branch. This page will reload, and the pages link will now display your live site's URL (example: my live site is themathematicalmermaid.github.io/site/)
+Create a GitHub account (example: my username is `themathematicalmermaid`). Create a repo (example: mine is called `site`). Upload your `index.html` file and your `styles.css` file. Upload any images you referenced. In your repo settings, scroll down to the section on GitHub Pages. Choose to publish your master branch. This page will reload, and the pages link will now display your live site's URL which will use your username and repo name (example: my live site is <a href="https://themathematicalmermaid.github.io/site/">themathematicalmermaid.github.io/site/</a>)
 
 Your site can now be visited by anyone connected to the internet!
 

@@ -6,7 +6,7 @@ body {
   padding-top: 40px;
 }
 
-.card {
+div {
   background-color: white;
   max-width: 500px;
   margin: auto;
